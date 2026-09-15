@@ -1,0 +1,11 @@
+{
+  "chosen_k": 4,
+  "silhouette_score": 0.339,
+  "customers_analyzed": 4318,
+  "clean_transaction_rows": 395555,
+  "revenue_period": "2010-12-01 to 2011-12-09",
+  "repeat_customer_pct": 65.1,
+  "average_order_value_gbp": 440.36,
+  "top_segment_revenue_share_pct": 64.4,
+  "outlier_quantile_used": 0.999
+}
