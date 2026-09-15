@@ -1,0 +1,5 @@
+Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Revenue_Share_%,Segment_Name
+1,699,12.1,13.7,7409.3,5179132.9,64.4,Champions
+0,1178,67.9,4.1,1607.6,1893770.6,23.5,Loyal / Steady
+2,1612,183.7,1.3,334.2,538676.4,6.7,At Risk / Churned
+3,829,18.4,2.1,526.4,436361.8,5.4,Low-Value / New

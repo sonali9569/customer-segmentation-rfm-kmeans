@@ -1,0 +1,4 @@
+data/*.xlsx
+outputs/retail.db
+__pycache__/
+.ipynb_checkpoints/
